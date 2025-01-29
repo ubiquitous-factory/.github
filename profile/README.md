@@ -1,6 +1,6 @@
 # Welcome to the Ubiquitous Factory!! 
 
-Ubiquitous factory is a set of open source projects sponsored by [Mehal Technologies](https://mehal.tech/) designed to support edge compute scenarios.
+Ubiquitous Factory is a set of open source projects sponsored by [Mehal Technologies](https://mehal.tech/) designed to support edge compute scenarios.
 
 The projects focus on the intersection of operating system, application and AI management for small form factor devices.
 
